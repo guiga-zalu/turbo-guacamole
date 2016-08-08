@@ -1,0 +1,33 @@
+Sistema:
+	Serviços:
+		Transporte:
+			1º Cedidos
+			2º Relacionar com Meios Pagos
+		Produtos:
+			1º Cedidos
+			2º Descontos
+			3º Mais Baratos e Próximos
+		Serviços:
+			1º Cedidos
+			2º Descontos
+			3º Mais Baratos e Próximos
+			- Adicionar ao Currículo
+		Meios de Recomendação
+	Usuários:
+		Todos:
+			Cedem:
+				Transporte
+				Produtos
+				Serviços
+			Recebem:
+				Transporte
+				Produtos
+				Serviços
+		Tipos:
+			Pessoas (que nescessitem ou conhecidos)
+			Organizações (beneficentes e sem fins lucrativos)
+	Registrar:
+		Usuários
+		Transações de Serviços:
+			Dados de Ambas as Partes
+			Opnião do Contratante
